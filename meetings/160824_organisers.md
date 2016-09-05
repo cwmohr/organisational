@@ -17,7 +17,7 @@
 
 ## Attendees ##
 
-**Present**: Halfdan Rydbeck, Hugues Fontenelle, Sabry Razick (USIT), Karin Lagesen, Lex Nederbragt, Fatima Heinicke, Roza Berhanu Lemma, Anne Fouilloux (in charge of writing the minutes)
+**Present**: Halfdan Rydbeck, Hugues Fontenelle, Sabry Razick (USIT), Karin Lagesen, Lex Nederbragt, Fatima Heinicke, Roza Berhanu Lemma, Anne Fouilloux (in charge of writing the minutes), Christian W. Mohr
 
 **Google hangouts**: Arvind Sundaram, Dmytro Perepølkin
 
